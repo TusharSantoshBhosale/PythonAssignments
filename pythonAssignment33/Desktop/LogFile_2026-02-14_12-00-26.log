@@ -1,0 +1,117 @@
+Platform Surveillance System Log
+Created At : Sat Feb 14 12:00:42 2026
+--------------------------------------------------
+
+Process Name      : chrome.exe
+PID               : 9620
+CPU %             : 0.30
+Memory (RSS)      : 340467712 bytes
+Memory (VMS)      : 615055360 bytes
+Threads Count     : 19
+Open Files Count  : 65
+--------------------------------------------------
+Process Name      : chrome.exe
+PID               : 10728
+CPU %             : 15.50
+Memory (RSS)      : 320552960 bytes
+Memory (VMS)      : 333705216 bytes
+Threads Count     : 21
+Open Files Count  : 63
+--------------------------------------------------
+Process Name      : Code.exe
+PID               : 5840
+CPU %             : 0.00
+Memory (RSS)      : 287858688 bytes
+Memory (VMS)      : 432726016 bytes
+Threads Count     : 19
+Open Files Count  : 13
+--------------------------------------------------
+Process Name      : Code.exe
+PID               : 1780
+CPU %             : 6.90
+Memory (RSS)      : 239312896 bytes
+Memory (VMS)      : 302739456 bytes
+Threads Count     : 16
+Open Files Count  : 49
+--------------------------------------------------
+Process Name      : Code.exe
+PID               : 9708
+CPU %             : 0.00
+Memory (RSS)      : 209801216 bytes
+Memory (VMS)      : 265289728 bytes
+Threads Count     : 15
+Open Files Count  : 48
+--------------------------------------------------
+Process Name      : chrome.exe
+PID               : 13052
+CPU %             : 1.70
+Memory (RSS)      : 191733760 bytes
+Memory (VMS)      : 120201216 bytes
+Threads Count     : 47
+Open Files Count  : 247
+--------------------------------------------------
+Process Name      : MsMpEng.exe
+PID               : 4416
+CPU %             : 1.90
+Memory (RSS)      : 160362496 bytes
+Memory (VMS)      : 352735232 bytes
+Threads Count     : 28
+Open Files Count  : 0
+--------------------------------------------------
+Process Name      : chrome.exe
+PID               : 4536
+CPU %             : 0.50
+Memory (RSS)      : 142245888 bytes
+Memory (VMS)      : 170479616 bytes
+Threads Count     : 17
+Open Files Count  : 3
+--------------------------------------------------
+Process Name      : explorer.exe
+PID               : 7960
+CPU %             : 2.50
+Memory (RSS)      : 129904640 bytes
+Memory (VMS)      : 105754624 bytes
+Threads Count     : 73
+Open Files Count  : 39
+--------------------------------------------------
+Process Name      : msedge.exe
+PID               : 8900
+CPU %             : 0.60
+Memory (RSS)      : 124301312 bytes
+Memory (VMS)      : 45871104 bytes
+Threads Count     : 54
+Open Files Count  : 87
+--------------------------------------------------
+
+System Surveillance Summary
+--------------------------------------------------
+Total Processes : 10
+
+Top CPU Processes:
+chrome.exe (PID 10728) - 15.50%
+Code.exe (PID 1780) - 6.90%
+explorer.exe (PID 7960) - 2.50%
+MsMpEng.exe (PID 4416) - 1.90%
+chrome.exe (PID 13052) - 1.70%
+
+Top Memory Processes:
+chrome.exe (PID 9620) - 5.38%
+chrome.exe (PID 10728) - 5.06%
+Code.exe (PID 5840) - 4.55%
+Code.exe (PID 1780) - 3.78%
+Code.exe (PID 9708) - 3.31%
+
+Top Thread Count Processes:
+explorer.exe (PID 7960) - 73 threads
+msedge.exe (PID 8900) - 54 threads
+chrome.exe (PID 13052) - 47 threads
+MsMpEng.exe (PID 4416) - 28 threads
+chrome.exe (PID 10728) - 21 threads
+
+Top Open File Processes:
+chrome.exe (PID 13052) - 247
+msedge.exe (PID 8900) - 87
+chrome.exe (PID 9620) - 65
+chrome.exe (PID 10728) - 63
+Code.exe (PID 1780) - 49
+--------------------------------------------------
